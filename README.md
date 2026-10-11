@@ -1,5 +1,5 @@
 # Starbie
-![Starbie](3D View.png)
+![3D View](/Starbie by Festus/3D View.png)
 A star-shaped ESP32-C3 PCB with an OLED display, an MPU6050 motion sensor and a DHT11 sensor.
 
 ## Credits
