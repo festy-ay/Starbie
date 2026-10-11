@@ -21,4 +21,5 @@ https://github.com/SharKingStudios/Starbie
 ## License
 The original design belongs to its authors and is covered by its own license: https://github.com/SharKingStudios/Starbie/blob/main/LICENSE
 
+##
 The starfish designs were downloaded form online platforms and converted using Inkscape then imported into the project. The dowloaded art files (.png) and converted files (.svg) are not provided here but you can make your's and import it into the project!.
